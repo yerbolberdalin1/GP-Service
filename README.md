@@ -75,3 +75,4 @@ gp-service/
 - Лёгкие анимации: появление секций, hover-состояния, раскрытие подуслуг и FAQ.
 - SEO: `<title>`, meta description, Open Graph, JSON-LD (`MovingCompany`).
 - Изображения взяты из присланных ассетов GP Service и оптимизированы для веба.
+# GP-Service
